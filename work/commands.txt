@@ -1,1 +1,8 @@
 Sup, brah 
+all git commands;
+Git init(git starts watching what is on the folder)
+Git status()
+Git add()
+Git commit(Tells git to save the file how it is), (saying commit alone saves everything) 
+Git log(shows you all the commits and the history, all the records)
+Git checkout()

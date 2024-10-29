@@ -1,1 +1,6 @@
 write down the git commands explaining what they stand for inside aanswers file
+git add: moves changes from the working directory to the staging area
+git checkout: git checkout is a means of navigating exeisting branches
+git commit: takes the staged snapshot and commits it to the project history
+git config: a convinient way to setup installasion of git versions
+git log: let's us explore previous versions of the git project
