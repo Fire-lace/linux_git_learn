@@ -1,0 +1,16 @@
+Git commands
+1) Git add: Moves changes from the working directory to the staging area.
+2) Git branch: This command is your general-purpose branch administration tool
+3) Git checkout: In addition to checking out old commits and old file revisions, git
+	checkout is also the means to navigate existing branches.
+4) Git clean: Removes untracked files from the working directory.
+5) Git clone: Creates a copy of an existing Git repository.
+6) Git commit: Takes the staged snapshot and commits it to the project history. 
+7) Git commit --amend: Passing the --amend flag to git commit lets you amend
+	the most recent commit. 
+8) Git config: A convenient way to set configuration options for your Git installation.
+9) Git init: Initializes a new Git repository.
+10)Git pull: It downloads a branch from a remote repository, 
+	then immediately merges it into the current branch. 
+	This is the Git equivalent of svn update.
+ 11) Git push: Pushing is the opposite of fetching (with a few caveats). It lets you move a local branch to another repository, which serves as a convenient way to publish contributions.

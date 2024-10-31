@@ -1,0 +1,12 @@
+write all the linux commands you know,
+ls - list contents in the current directory
+echo - displays text on the screen
+cd - changes directory(takes you home if written alone)
+cp - copy's a file or folder
+mv - moves a file or folder
+mv -r - deletes a file or folder
+cat - runs a file
+cd-- - goes back a directory
+cl - clears the screen
+history - shows your browser history
+
